@@ -2,8 +2,4 @@ I'm just going to put a sentence right here
 
 Oh look a dog!
 
-this is my new branchtest.
-
 Im going to keep this message, and save to master.
-
-now im going to make a new branch, so this is master
