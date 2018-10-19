@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 This should be master branch
+=======
+I'm just going to put a sentence right here
+
+Oh look a dog!
+
+and a third? yes.
+>>>>>>> mybranch
